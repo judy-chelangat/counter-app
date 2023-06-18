@@ -30,7 +30,7 @@ button{
     border-radius: 5px;
     font-size: 17px;
 }
-#increment-btn , #save-btn{
+#increment-btn , #save-btn , #decrement-btn{
     background-color: brown;
 }
 p{
