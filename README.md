@@ -39,5 +39,5 @@ The CounterApp is open-source and released under the [MIT License](https://opens
 
 ## Contact
 
-If you have any questions or inquiries, feel free to reach out to Judy Chelangat via email at judysigilai75gmail.com.
+If you have any questions or inquiries, feel free to reach out to Judy Chelangat via email at judysigilai75@gmail.com.
 
